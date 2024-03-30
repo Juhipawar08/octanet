@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .list {
+    width: 500px;
+    height: 95vh;
+    background-color: rgb(148, 175, 93);
+    margin: auto;
+    margin-top: 15px;
+    border: 0px solid rgba(0, 0, 0, 0.214);
+    box-shadow: -1px -1px 5px;
+  }
+  
+  h2 {
+    margin-left: 180px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    border-bottom: 3px solid rgb(86, 191, 24);
+    width: max-content;
+  }
+  
+  label input {
+    width: 20px;
+    height: 20px;
+    margin-left: 60px;
+  }
+  
+  label {
+    display: flex;
+    margin-bottom: 28px;
+  }
+  
+  label p {
+    margin-left: 200px;
+  }
